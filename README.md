@@ -63,4 +63,4 @@ Technological University of Havana "José Antonio Echeverría" (2015–2020)
 - 🌟 Best Young Worker of the Year (2023) 
 - 🌐 Languages: Spanish (Native), English (Intermediate)
 
-  💼 [Resume (PDF)](https://github.com/Carole1808/itsevy-resume/blob/main/Itsevy%20Resume%202.pdf)
+  💼 [Resume (PDF)](https://github.com/Carole1808/itsevy-resume/blob/main/Resume.pdf)
